@@ -8,6 +8,8 @@
 *.swp
 *.vi
 *~
+.gitattributes
+.gitignore
 *.sass-cache
 
 # OS or Editor folders
